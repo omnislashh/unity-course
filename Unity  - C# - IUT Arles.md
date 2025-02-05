@@ -184,7 +184,7 @@ transparente sur une texture
 opaque (exemple des autocollant
 sur une vitre).
 
-![unity](./images/iut-arles/Capture-IUT13.PNG) 
+![unity](./images/iut-arles/Capture-IUT013.PNG) 
 <hr>
 
 # 14 - Materials & Textures
